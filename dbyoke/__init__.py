@@ -8,12 +8,10 @@ allowing you to easily switch between drivers and databases.
 
 from .connection import DatabaseConnection
 from .connection_string import ConnectionStringBuilder
-from _temp.config import load_config_from_file
 
 __all__ = [
     "DatabaseConnection",
     "ConnectionStringBuilder",
-    "load_config_from_file",
 ]
 
 
