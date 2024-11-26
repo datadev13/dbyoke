@@ -9,8 +9,6 @@ MSSQL, Oracle) and simplifies connection string generation and connection manage
 - Support for PostgreSQL, Microsoft SQL Server, and Oracle.
 - Unified interface for working with database drivers.
 - Connection string generation.
-- Configuration loading from JSON or YAML files.
-- Utility functions (logging, configuration validation).
 
 ---
 
