@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Distribution/Packaging
+*.egg-info/
+dist/
+build/
+
+# PyCharm IDE
+.idea/
+
+# VS Code IDE
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# pytest
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local configuration files
+*.env
+*.local
+
+/_temp
