@@ -1,12 +1,12 @@
 # DbYoke
 
-DbYoke is a library designed to standardize database connections. It supports multiple drivers (PostgreSQL, SQLite,
+DbYoke is a library designed to standardize database connections. It supports multiple drivers (PostgreSQL,
 MSSQL, Oracle) and simplifies connection string generation and connection management.
 
 ## Features
 
 - Simplified database connection management.
-- Support for PostgreSQL, SQLite, Microsoft SQL Server, and Oracle.
+- Support for PostgreSQL, Microsoft SQL Server, and Oracle.
 - Unified interface for working with database drivers.
 - Connection string generation.
 - Configuration loading from JSON or YAML files.
@@ -16,7 +16,7 @@ MSSQL, Oracle) and simplifies connection string generation and connection manage
 
 ## Installation
 
-You can install **DbYoke** using `pip`.
+You can install **DbYoke** using `pip install dbyoke`.
 
 ### Install from PyPI
 
